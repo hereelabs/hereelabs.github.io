@@ -17,7 +17,7 @@ limitations under the License.
 
 // Code for Monster Milktruck demo, using Earth Plugin.
 
-	Cesium.BingMapsApi.defaultKey = 'AlVzbZ-HbppDxA8zFSAxaqJh442oNVAXj21JLIkeG9LfCHdRgw39QRJWQTB5PFoE';
+Cesium.BingMapsApi.defaultKey = 'AlVzbZ-HbppDxA8zFSAxaqJh442oNVAXj21JLIkeG9LfCHdRgw39QRJWQTB5PFoE';
 var MODEL_URL = 'model/Cesium Milk Truck.gltf';
 var INIT_LOC = {
 	lon : -123.0744619, 
